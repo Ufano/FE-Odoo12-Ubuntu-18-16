@@ -7,12 +7,12 @@
 3) SSH into server, for remote installations or Open terminal, for local installations.
 4) Copy and paste the following command in the terminal. 
 		 
-sudo nano odoo_install.sh
+	sudo nano odoo_install.sh
 
 5) Add all the content in the file script.txt (Use CTRL+A). Then run the commands below one by one.
 
-sudo chmod u+x odoo_install.sh
-sudo sh odoo_install.sh
+	sudo chmod u+x odoo_install.sh
+	sudo sh odoo_install.sh
 
 6) Wait for the installation to complete.The server will restart by itself once the installation is completed.
 7) Install the Invoice module and the Sale module. Activate full accounting options. 
@@ -24,10 +24,12 @@ sudo sh odoo_install.sh
 Special thanks to all the people who gather together to develop this open source modules 
 for FE in Costa Rica. Thank you all for your hard work and dedication.
 Remember, open source is the key to common success.
-############################################################################################
-############################################################################################
-############################################################################################ 
 
 Best regards,
 
 Dr.Giro Ufano.
+############################################################################################
+############################################################################################
+############################################################################################ 
+
+
