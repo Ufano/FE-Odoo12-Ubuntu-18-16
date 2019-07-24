@@ -15,7 +15,8 @@ sudo chmod u+x odoo_install.sh
 sudo sh odoo_install.sh
 
 6) Wait for the installation to complete.The server will restart by itself once the installation is completed.
-7) Follow the steps for post deployment configuration located in https://github.com/odoocr/l10n_cr/wiki/Configuraci%C3%B3n-del-m%C3%B3dulo-de-facturaci%C3%B3n-electr%C3%B3nica
+7) Install the Invoice module and the Sale module. Activate full accounting options. 
+8) Follow the steps for post deployment configuration located in https://github.com/odoocr/l10n_cr/wiki/Configuraci%C3%B3n-del-m%C3%B3dulo-de-facturaci%C3%B3n-electr%C3%B3nica
 
 ###########################################################################################
 ###########################################################################################
