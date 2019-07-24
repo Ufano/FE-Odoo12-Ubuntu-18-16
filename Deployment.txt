@@ -1,0 +1,32 @@
+###########################################################################################
+###################          DEPLOYMENT PROCESS          ##################################
+###########################################################################################
+
+1) Install Ubuntu 16/18 or deploy a cloud VM image with Ubuntu 18/16.
+2) Open ports 8069, 80, 443, 22, 23 and configure network firewall settings to allow communication.
+3) SSH into server, for remote installations or Open terminal, for local installations.
+4) Copy and paste the following command in the terminal. 
+		 
+sudo nano odoo_install.sh
+
+5) Add all the content in the file script.txt (Use CTRL+A). Then run the commands below one by one.
+
+sudo chmod u+x odoo_install.sh
+sudo sh odoo_install.sh
+
+6) Wait for the installation to complete.The server will restart by itself once the installation is completed.
+7) Follow the steps for post deployment configuration located in https://github.com/odoocr/l10n_cr/wiki/Configuraci%C3%B3n-del-m%C3%B3dulo-de-facturaci%C3%B3n-electr%C3%B3nica
+
+###########################################################################################
+###########################################################################################
+########################################################################################### 
+Special thanks to all the people who gather together to develop this open source modules 
+for FE in Costa Rica. Thank you all for your hard work and dedication.
+Remember, open source is the key to common success.
+############################################################################################
+############################################################################################
+############################################################################################ 
+
+Best regards,
+
+Dr.Giro Ufano.
