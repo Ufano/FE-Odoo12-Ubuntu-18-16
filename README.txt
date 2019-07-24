@@ -4,7 +4,7 @@
 
 This repository pretends to facilitate the installation of Odoo 12 and all 
 dependencies needed for electronic invoicing in Costa Rica. 
-While this repository will help you on the installation of such modules, they haven’t
+While this repository will help you on the installation of such modules, they havenâ€™t
 been develop by myself. In fact, these modules have been developed by a group of 
 programmers who believe in open source. All credits and thanks should be for them. 
 
@@ -13,9 +13,10 @@ Link of their github repository. https://github.com/odoocr/l10n_cr/wiki/Configur
 
 To install follow the steps on deployment.txt
 
-############################################################################
-############################################################################
-############################################################################
 Best regards,
 
 Dr.Giro Ufano.
+
+############################################################################
+############################################################################
+############################################################################
